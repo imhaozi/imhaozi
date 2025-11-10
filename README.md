@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**imhaozi/imhaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 在职，位于中国北京
 
-Here are some ideas to get you started:
+🌱 一名嵌入式软件工程师，致力于成为软硬件全栈工程师
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛰️ 电子设计狂热爱好者，制作所感兴趣的项目
+
+👯 欢迎志同道合的伙伴，一起交流、进步
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
