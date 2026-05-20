@@ -24,18 +24,5 @@
 [![Bilibili](https://img.shields.io/badge/-B站-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/330622220)
 
 
-## 📊 Platform Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=imhaozi&show_icons=true" />
-    </td>
-    <td>
-      <img src="https://stats.justsong.cn/api/bilibili/?id=330622220&theme=light" />
-    </td>
-  </tr>
-</table>
-
 ## 📫 Connect with Me
 
